@@ -5,8 +5,6 @@
 
 <h2 align="center">💻 Freelance Web / Mobile — Création d’applications modernes & performantes</h2>
 
----
-
 ## 🚀 À propos de moi
 
 Développeur web & mobile indépendant, je conçois des applications fiables, modernes et scalables.  
