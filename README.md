@@ -19,12 +19,12 @@ J’interviens sur des projets **front**, **backend**, **mobile**, **UI/UX**, ai
 
 ### **📱 Mobile & Front-end**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,flutter,dart,figma" />
 </p>
 
 ### **⚙️ Backend & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=php,symfony" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,wordpress" />
 </p>
 
 ### **🗄️ Bases de données**
@@ -34,7 +34,12 @@ J’interviens sur des projets **front**, **backend**, **mobile**, **UI/UX**, ai
 
 ### **🧪 DevOps & Outils**
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,apple,git,nginx,docker" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple,vscode,git,nginx,docker" />
+</p>
+
+### **🧪 DevOps & Outils**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
