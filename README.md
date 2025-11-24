@@ -35,11 +35,6 @@ J’interviens sur des projets **front**, **backend**, **mobile**, **UI/UX**, ai
   <img src="https://skillicons.dev/icons?i=windows,linux,apple,vscode,git,nginx,docker" />
 </p>
 
-### **🧪 DevOps & Outils**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
 ---
 
 ## 🔧 Projet en cours
