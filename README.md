@@ -45,15 +45,6 @@ Objectifs : fiabilité, traçabilité, gain de temps opérationnel.
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teowaep&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teowaep&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</p>
-
----
-
 ## ✉️ Contact
 
 📧 **Email** : teo.waep@gmail.com
